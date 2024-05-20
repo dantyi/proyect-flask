@@ -1,0 +1,23 @@
+Pregunta 1
+opcion1
+opcion2
+*opcion3
+opcion4
+
+Pregunta 2
+*opcion1
+opcion2
+opcion3
+opcion4
+
+Pregunta 3
+opcion1
+*opcion2
+opcion3
+opcion4
+
+Pregunta 4
+opcion1
+opcion2
+*opcion3
+opcion4
